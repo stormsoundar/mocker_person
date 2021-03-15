@@ -1,0 +1,15 @@
+{
+  "name": "mocker-for-a-person",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soundar",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.4.0",
+    "mongoose": "^5.11.19"
+  }
+}
